@@ -122,5 +122,55 @@ Simons’ background hardly suggested that he would one day lead one of the most
 Born in 1938 to a Jewish family that operated a small shoe factory, Simons aspired very early to be a mathematician, ultimately receiving a B.S. degree from the Massachusetts Institute of Technology at the age of 20, and a Ph.D. from the University of California, Berkeley at the age of 23. His doctoral thesis presented a new proof of Berger’s classification of the holonomy groups of Riemannian manifolds. Later, in collaboration with Shing-Shen Chern, he discovered and proved what is now known as the Chern-Simons theorem (and associated theory), which deals with 3-dimensional quantum field theory and also has applications in string theory and quantum computing. For this and some related work, in 1976 he received the Oswald Veblen Prize in Geometry.
 The firms algorithms seem to not bother to test hypotheses, the data itself is the signal, and the ability to process massive amounts of data, and tease out signals, is the process itself.  Taking seemingly unconnected and untradable information and making it tradeable is their business. So this is essentially a process of taking data, signal processing, and feature extraction that is fully automated via algorithms that aren’t well understood.
 
+Landscape:
+
+What domain of the financial industry is the company in?
+
+RenTech is a quantitative/systematic investment management firm.  
+
+What have been the major trends and innovations of this domain over the last 5-10 years?
+
+The major trends in investing have been a move to more quantitative domains, away from discretionary investing.  In this, RenTech was a pioneering firm that, unlike LTCM, did not blow up, and has experienced very little in terms of losses during extreme market events. It seems likely, that more movement towards automation, data, and so called ‘black-box’ models, remains the future for the investment management industry.  Traditional forces in investing:  value, carry, momentum, statistical arbitrage/mean reversion et al., are becoming the norm, as discretionary managers disappear.  This is mostly happening because net of fees, most discretionary managers have proven a pervasive inability to beat markets over the long term.  In this, it is unclear that quant strategies outside of anomalies like RenTech, will be able to do much better.  The problem is that once a signal is identified, it is often traded away - or in other scenarios- reversed by markets and used against the herd when the knowledge of the signal is saturated.  This sort of signal decay, makes RenTech’s long term success that much more notable.  They are either a criminal ponzi scheme - or one (or more) steps ahead of every other quant shop.  
+
+What are the other major companies in this domain?
+
+Citadel, DE Shaw, AQR, Bridgewater, BlueCrest, Point72, Two-Sigma
+
+Results
+
+What has been the business impact of this company so far?
+
+This firm is the stuff of legend.  It is the holy grail of investing, in that everyone wants to know how they do what they do.  Having worked on the street I’ve only known one person from RenTech.  My sense was that speaking about what they do wasn’t even possible for most employees. This person was a high level trading employee - with management responsibilities of the money - so completely front office.  He couldn’t or wouldn’t say in any way how they do what they do. The influence on RenTech has likely been enormous from a market participant psyche perspective.  As they say - ‘what one man can do - another can too…’ - but in this case NO ONE has been able to figure out their recipe for spinning hay into gold.  This lore/legend will continue to press market participants to innovate and try and emulate RenTech’s strategies and wins.  (I’d imagine leaving RenTech might look a lot like Tom Cruise in Grisham’s ‘The Firm’.)  
+
+What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+When we go through investment performance, there a lot of directions you could take analysis and ways to look at the performance data.  Some ways of thinking about it:
+
+Absolute returns vs. relative returns - Investors always would like to know how they did in absolute returns - which is simply the percentage they made over the year.  However, we also have to adjust returns on relative basis to judge success relative to a benchmark.  In this, if you ran an fund benchmarked to say - SPOOs - and SPX was up 20% and you were up 18% on the year - you would have an 18% absolute return - but a garbage result on a relative basis.  This of course **COULD** be better than it looks.  Why?  Well you have to risk adjust returns as well.  What if the risk (vol/skewness/kurtosis) of the +18% was only half of that of the SPX?  In this, we might have a weaker return on a relative basis, but a very happy result on a risk adjusted return basis.  Loosely defined, the outperformance of a fund - above an expected beta - is alpha.  In that, if you took a ton of risk and beat the SPOOs- congrats - you made more money- but you did so by taking more risk.  This is critically where RenTech also shines.  As noted above, the funds not only seem to take a negative correlation to overall market beta, but generate higher returns doing so.  It’s difficult to say what the true.   
+
+How is your company performing relative to competitors in the same domain?
+
+RenTech, as mentioned, has achieved godlike dominance of their field.  This dominance, is almost worthy of suspicion, as it SEEMED like the only HF (not necessarily quant driven) was Madoff’s with such an impressive record.  The question becomes - Did RenTech discover alchemy in so far as ‘solving’ the markets as the book suggests Jim Simon’s did? ( I am not sure we can find a strong answer here, but suffice it to say, RenTech is either one of the most unique examples of innovation in markets - or an incredible fraud of some sort.  That said, it is unlikely they are a Madoff style fraud.  It would be too complicated in this day and age to get away with something like that.  The avenues would be similar to a Madoff, but not as available in this case.  (Perhaps the only way I see it as possible is that RenTech could still have great models, which are highly successful in their own right OUTSIDE of the Medallion Fund, and they use those other funds to ‘goose’ the Medallion Fund returns somehow.  In that - no one complains because the other funds are ‘good’ - but not Medallion-like - and Medallion is benefitted by some sleight of hand.  Again, not accusing, but it wouldn’t be the first time someone has seemed like a god, only to found out later to be very very mortal.)
+
+Overall, very little academic work has been done on RenTech’s Medallion fund, but it flies in the face, in the most blatant and discouraging way, of the EMH - or efficient market hypothesis.  If RenTech’s style could work into perpetuity, it would suggest markets aren’t that efficient after all, and in fact - highly ‘beatable’.  The best academic findings out there on this fund were put forth by Bradford Cornell, a UCLA professor, in his piece entitled, ‘The Medallion Fund: The Ultimate Counterexample?’.   In it, Cornell notes:
+
+The performance of Renaissance Technologies’ Medallion fund provides the ultimate counterexample to the hypothesis of market efficiency. Over the period from the start of trading in 1988 to 2018, $100 invested in Medallion would have grown to $398.7 million, representing a compound return of 63.3%. Returns of this magnitude over such an extended period far outstrip anything reported in the academic literature. Furthermore, during the entire 31-year period, Medallion never had a negative return despite the dot.com crash and the financial crisis. Despite this remarkable performance, the fund’s market beta and factor loadings were all negative, so that Medallion’s performance cannot be interpreted as a premium for risk bearing. To date, there is no adequate rational market explanation for this performance.
+
+Cornell notes that $100 invested in this fund would have grown to $398mm dollars from 1998 to 2018.  This is in stark contrast to a market based return on $100, growing to only $1900.  That is how insane this fund is in a nutshell. Also notable in the data set (included from the book ‘The Man Who Solved the Market’ which is also in Cornell’s paper), is that the returns DO NOT fall off relative to the size of the fund.  Whatever was working at $20mm fund size is also working at $10bb capped fund size. This by itself is incredible.  
+
+
+Recommendations
+
+If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+Unfortunately, there is a scaling issue with many black-box type quantitative models.  Certainly, anyone invested in the Medallion Fund has to be very happy with performance, as each year they grow and grow and become more and more wealthy invested in the fund.  With compound growth like that, it’s likely that people in the fund could achieve a financial standing most could only dream of, starting at a very low level investment.  In that, I’m hesitant to believe there is a product offering that RenTech could make. They have **THE** product.  That said, throughout the history of the firm, it seems like they achieved new scalability by entering new markets.  Perhaps, things with harder to source information, but consequently less efficient markets, may actually be a way to grow the firm more.  RenTech has done this in the past, moving from commodities to equities, so perhaps maybe even less efficient markets might work with some of the quantitative proficiencies the firm has developed, in order to expand. 
+
+Why do you think that offering this product or service would benefit the company?
+
+In terms of offerings, some of the tactics enlisted by RenTech might be so interesting to markets, that simply opening up about some of the employed tactics - without specifics - could change the face of markets in a meaningful way.  It may be a legacy vanity play for Simons and the rest of the firm to shed some light on how they do things there.  That aside, expanding into more difficult markets might ultimately lead to greater investment scalability across a wider range of offerings.  This may include emerging markets.   
+
+What technologies would this additional product or service utilize?
+
+These would simply utilize existing computing structures which scrub through 10+ terabytes of data a day. 
 
 
