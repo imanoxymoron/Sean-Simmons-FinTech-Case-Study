@@ -111,18 +111,27 @@ Again, it’s difficult to say where RenTech is sourcing its clear empirical edg
 
 What RenTech MAY do better than anyone else:
 
-Signal processing 
-While at IDA, Simons had briefly investigated applying an algorithm developed by Lenny Baum and Lloyd Welch to financial markets (the Baum-Welch algorithm uses data to uncover hidden states in a Markov chain process)
+**Signal processing**
 
-Simons, either directly or through spin-offs that he oversaw, subsequently hired several additional staff members, including James Ax, a prominent number theorist; Elwyn Berlekamp, a prominent expert in coding theory, game theory and computer science; Rene Carmona, an expert in stochastic differential equations; and Nick Patterson, whom Simons had known at IDA. Together these researchers developed some new techniques and software that appeared to work quite well. Although there were setbacks, their investment fund, later renamed the “Medallion Fund” (reportedly a nod to the awards that Simons, Ax and others had received) started growing, from $20 million in 1988 to $66 million in 1993.
-At this point, Simons concluded that he needed some additional high-powered expertise in computer science and machine learning. So he hired IBM researchers Robert Mercer and Peter Brown, who had been developing speech recognition techniques at IBM’s Yorktown Heights Research Laboratory. Mercer and Brown further improved the fund’s algorithms, data processing facilities and trading software, resulting in significant new gains. Simons then hired additional mathematicians and computer scientists, together with an eclectic group of physicists, astronomers and signal processing experts, hardly any of whom had training in business or finance.
-Other areas information geometry
+It is said that RenTech - via various algorithms - is able to find signals that are inperceptible to humans without computers - using signal processing algorithms/machhine learning. Howver, it seems like the algorithms (potentially some application of the Baum-Welch algorithm) are used much more efficiently in RenTech than elsewhere. It appears that RenTech finds patterns - thousands of them - in very basic data - and finds signals that work 50.75% of the time and are magnified at each trade via leverage with long short positions.  So take something like two very similar companies.  The machines would be scrubbing data and trades on a micro level basis, looking for signals that humans can't see.  If that signal is replicated several times - it may be SLIGHTLY more likely to be replicated again.  So if Exxon Mobil is trading like garbage relative to XOM on upticks, and all else equal, the pattern recognition might grab that CVX stock and sell XOM in a short term levered way.  Keeping balanced, on a sector and company basis, the firm would truly be 'hedged' against everything but a company specific smash-up. However, it is **LIKLELY** (read: certain) that computers immediately would unwind XOM on negative read headlines/signals.  In this, if they capture these micro signals OVER AND OVER again, they could reliably:
+
+1.) Eliminate most market/systematic risk
+2.) Eliminate most sector risk
+3.) Eliminate transactions costs through higher speed connections/market making/fill algos
+
+As Robert Mercer said - we want to win 50.75% of the time 100% of the time.  That tiny inperceptible signal they found and traded on - say it makes .2% very quickly over the course of the signal.  They are also levered, so that number might annualize out to something absurd.  
+
+The firms algorithms seem to not bother to test hypotheses, the data itself is the signal, and the ability to process massive amounts of data, and tease out signals, is the process itself.  Taking seemingly unconnected and untradable information and making it tradeable is their business. So this is essentially a process of taking data, signal processing, and feature extraction that is fully automated via algorithms that aren’t well understood.
+
+Other potential areas that RenTech may have a competitive advantage/differentiate from other quant shops:
+
+- 
 
 https://www.youtube.com/results?search_query=information+geometry+and+its+applications 
 
 Simons’ background hardly suggested that he would one day lead one of the most successful, if not the most successful, quantitative hedge fund operation in the world.
 Born in 1938 to a Jewish family that operated a small shoe factory, Simons aspired very early to be a mathematician, ultimately receiving a B.S. degree from the Massachusetts Institute of Technology at the age of 20, and a Ph.D. from the University of California, Berkeley at the age of 23. His doctoral thesis presented a new proof of Berger’s classification of the holonomy groups of Riemannian manifolds. Later, in collaboration with Shing-Shen Chern, he discovered and proved what is now known as the Chern-Simons theorem (and associated theory), which deals with 3-dimensional quantum field theory and also has applications in string theory and quantum computing. For this and some related work, in 1976 he received the Oswald Veblen Prize in Geometry.
-The firms algorithms seem to not bother to test hypotheses, the data itself is the signal, and the ability to process massive amounts of data, and tease out signals, is the process itself.  Taking seemingly unconnected and untradable information and making it tradeable is their business. So this is essentially a process of taking data, signal processing, and feature extraction that is fully automated via algorithms that aren’t well understood.
+
 
 ## Landscape:
 
