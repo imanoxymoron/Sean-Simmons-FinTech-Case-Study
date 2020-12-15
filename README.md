@@ -17,10 +17,9 @@ What might be even more impressive, is that they’ve only lost money one time n
 
 While I’m not sure we can come to any conclusions on how RenTech is able to do what they do, I thought it would be fitting - given my background - to explore the most tech and quant driven of all the quant funds in the world - RenTech. (Of all the Charlie Browns in the world, you are the Charlie-Browniest RenTech.)
 
-##
-Overview and Origin:
+## Overview and Origin:
 
-Name of company
+###Name of company
 
 Renaissance Technologies or ‘RenTech’ as it is known on the street 
 https://www.rentec.com/Home.action?index=true 
