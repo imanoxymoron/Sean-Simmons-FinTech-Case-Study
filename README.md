@@ -3,7 +3,7 @@
 
 **Renaissance Technologies ‘RenTech’**
 
-![](rentec pic)
+![](rentec.png)
 
 Given my life has been mostly dedicated to trading and portfolio management, both in a prop-trading, quantitative, as well as a more short to medium-term discretionary investment standpoint, I thought it would be most interesting for me to do some research on the biggest fintech black-box ever.  Renaissance Technologies is potentially the most secretive black-box quant firm in existence. It may be one of the least understood companies in the history of markets - next to Madoff.  I don’t use that comparison lightly, as the outsized returns of this firms Medallion Fund, have consistently beaten the market in beta adjusted terms since 1988.  It was noted in the book ‘The Man Who Solved the Market’ by Greg Zuckerman, that RenTech’s flagship Medallion Fund generated 66% annualized returns before fees and 39% after fees, from 1988-2018.  This makes Berkshire and Buffet - as well as every other hedge fund I know of - look like amateur hour.  As noted by Nick Maggiulli in his article, ‘Why the Medallion Fund is the Greatest Money-Making Machine of All Time’: 
 
