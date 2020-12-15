@@ -68,4 +68,59 @@ Cornell also notes:
 
 So what is a black-box/quant model anyways?  It is simply a systematic, automated, and data driven methodological approach to investing.  People still select the research process, data, universe of securities.  In the data, humans have to know where to look and what is valuable.  For RenTech, it seems like - from the knowledge we have - that they have algorithms and processes that are better at dealing with data than other black-box/quant shops.
 
+Alpha Models - How do average quants make money?
+
+This is the part of the model looking to make money over market beta.  It quantifies the value add above a market move.  The alpha model is designed to time markets, choose securities, and security sizing, in order to beat the market and add returns. 
+
+What are typically in alpha models:
+
+Theory driven science is typically what we see around us.  We see something and create a hypothesis we which to prove through science.  Empirical is based on data without the hypothesis. 
+Theory driven quant traders vs. empirical driven quant traders (RenTech is empirically driven quant trading shop.) 
+
+Theory:  Cheap stocks will outperform expensive ones. 
+Empirical: Just looks for patterns of these different types of stocks or any other asset - this is differentiator for quants.  ‘Data mining’ vs. Theory driven scientists are both driven by observation.  Empiricists are less concerned with figuring out the ‘why’ something is happening - only that it is in fact happening.  This is a RenTech take on markets vs. other theory driven quant models. Even if the correlation is spurious, it doesn’t matter if it is repeatable with enough edge to it - empirically driven quants will pile into this repeatable pattern.  Theoretical science would want the rationale - then to backtest it - then to implement it.  In this, RenTech may have better empirical models to pick out/data mine micro trends in markets. 
+
+Most quants fall into very predictable buckets:
+ 
+Trend following - based on price data
+Mean reversion - based on price data 
+Value/Yield - fundamental data
+Growth - fundamental data
+Quality - fundamental data
+
+These, for the most part are EXACTLY what a discretionary trader would measure - albeit in a less formal way.  I like X stock because it is dramatically oversold - something a trader would say vs. I like X stock because it is dramatically oversold on a scoring metric and the computer buys it based on this - what a quant would say - are not dramatically different.  Formalization of observation in a systematic way is the core of what most quant shops and black-boxes do. 
+
+In fact, romanticizing the black-box is pretty silly if we consider what they are really trying to achieve.  It isn’t largely dissimilar from discretionary- it is just systematized and often data/computer driven.  
+
+Example from my work:
+
+We would look at currencies in several different ways.  
+
+Carry
+Momentum
+Valuation
+Fundamentals
+
+(All of these **COULD** be mathematically driven, but you could also just say hey ‘this currency has high carry, the country has good dynamics, valuation is cheap, and momentum is turning positive’.  The quant would seek to formalize these buckets.  Further, the quant might look for patterns in the data that might tell us if momentum is indeed improving, valuation is in fact ‘good’, fundamental direction, and using risk adjusted carry metrics that could also tell us something about the potential for sharpe enhancement.)
+
+The idea that the average quant shop/black-box is ‘mysterious’ and ‘secretive’.  That is mostly false.  They are doing some interesting things with rather pedestrian inputs.  Seemingly, this isn’t so regarding RenTech.  
+
+Again, it’s difficult to say where RenTech is sourcing its clear empirical edge but… 
+
+What RenTech MAY do better than anyone else:
+
+Signal processing
+While at IDA, Simons had briefly investigated applying an algorithm developed by Lenny Baum and Lloyd Welch to financial markets (the Baum-Welch algorithm uses data to uncover hidden states in a Markov chain process)
+
+Simons, either directly or through spin-offs that he oversaw, subsequently hired several additional staff members, including James Ax, a prominent number theorist; Elwyn Berlekamp, a prominent expert in coding theory, game theory and computer science; Rene Carmona, an expert in stochastic differential equations; and Nick Patterson, whom Simons had known at IDA. Together these researchers developed some new techniques and software that appeared to work quite well. Although there were setbacks, their investment fund, later renamed the “Medallion Fund” (reportedly a nod to the awards that Simons, Ax and others had received) started growing, from $20 million in 1988 to $66 million in 1993.
+At this point, Simons concluded that he needed some additional high-powered expertise in computer science and machine learning. So he hired IBM researchers Robert Mercer and Peter Brown, who had been developing speech recognition techniques at IBM’s Yorktown Heights Research Laboratory. Mercer and Brown further improved the fund’s algorithms, data processing facilities and trading software, resulting in significant new gains. Simons then hired additional mathematicians and computer scientists, together with an eclectic group of physicists, astronomers and signal processing experts, hardly any of whom had training in business or finance.
+Other areas information geometry
+
+https://www.youtube.com/results?search_query=information+geometry+and+its+applications 
+
+Simons’ background hardly suggested that he would one day lead one of the most successful, if not the most successful, quantitative hedge fund operation in the world.
+Born in 1938 to a Jewish family that operated a small shoe factory, Simons aspired very early to be a mathematician, ultimately receiving a B.S. degree from the Massachusetts Institute of Technology at the age of 20, and a Ph.D. from the University of California, Berkeley at the age of 23. His doctoral thesis presented a new proof of Berger’s classification of the holonomy groups of Riemannian manifolds. Later, in collaboration with Shing-Shen Chern, he discovered and proved what is now known as the Chern-Simons theorem (and associated theory), which deals with 3-dimensional quantum field theory and also has applications in string theory and quantum computing. For this and some related work, in 1976 he received the Oswald Veblen Prize in Geometry.
+The firms algorithms seem to not bother to test hypotheses, the data itself is the signal, and the ability to process massive amounts of data, and tease out signals, is the process itself.  Taking seemingly unconnected and untradable information and making it tradeable is their business. So this is essentially a process of taking data, signal processing, and feature extraction that is fully automated via algorithms that aren’t well understood.
+
+
 
