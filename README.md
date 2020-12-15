@@ -24,18 +24,20 @@ While I’m not sure we can come to any conclusions on how RenTech is able to do
 Renaissance Technologies or ‘RenTech’ as it is known on the street 
 https://www.rentec.com/Home.action?index=true 
 
-When was the company incorporated?
+### When was the company incorporated?
 
 Founded in 1982 
 
- Who are the founders of the company?
+### Who are the founders of the company?
 
 Jim Simons/James Harris Simons
 
-How did the idea for the company (or project) come about?
+### How did the idea for the company (or project) come about?
 
-Interestingly, Jim Simons was a mathematician and cold-war code breaker, who is quoted as saying “I don’t want to have to worry about the market every minute.  I want models that will make money while I sleep- A pure system without humans interfering.  Simons, didn’t enter investing until he was in his 40’s.  Prior to that, he was an award winning mathematician, worked in code breaking during the Cold War, and built a world-class math department at Stony Brook.  During his days as a code breaker, he learned signal processing and interpretation - which basically is tantamount to finding meaningful signals in seemingly meaningless/unconnected data.  Essentially, at inception, Simon’s fund was employing low-level machine learning way before anyone else.  They continue to seem to be better than anyone else today, despite machine learning/neural networks/AI type investing and programming being readily available to most firms.  
+Interestingly, Jim Simons was a mathematician and cold-war code breaker, who is quoted as saying “I don’t want to have to worry about the market every minute.  I want models that will make money while I sleep- A pure system without humans interfering."  Simons, didn’t enter investing until he was in his 40’s.  Prior to that, he was an award winning mathematician, worked in code breaking during the Cold War, and built a world-class math department at Stony Brook.  During his days as a code breaker, he learned signal processing and interpretation - which basically is tantamount to finding meaningful signals in seemingly meaningless/unconnected data.  Essentially, at inception, Simon’s fund was employing low-level machine learning, or pattern recognitiion, before anyone else.  They continue to seem to be better than anyone else today, despite machine learning/neural networks/AI type investing and programming being readily available to most firms.  
 
-How is the company funded? How much funding have they received?
+### How is the company funded? How much funding have they received?
 
-It is unclear how the firm was initially funded from a money standpoint.  However, the firm’s flagship ‘Medallion Fund’ is only open to friends and family, so the funding for the firm’s most notable strategy is mostly internal at this point and capped from new investments. 
+It is unclear how the firm was initially funded from a money standpoint.  However, the firm’s flagship ‘Medallion Fund’ is only open to friends and family, so the funding for the firm’s most notable strategy is mostly internal at this point, and capped from new investments.
+
+
