@@ -1,7 +1,6 @@
-# Sean-Simmons-FinTech-Case-Study
-###Case Study on RenTech
-
-**Renaissance Technologies ‘RenTech’**
+### **Sean Simmons 
+### **FinTech Case Study
+## **Renaissance Technologies ‘RenTech’**
 
 ![](https://github.com/imanoxymoron/Sean-Simmons-FinTech-Case-Study/blob/main/rentech%20pic.png)
 
