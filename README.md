@@ -14,6 +14,6 @@ This means that the Medallion Fund outperformed one of the best asset classes of
 
 What might be even more impressive, is that they’ve only lost money one time net of fees in that period, while maintaining a negative correlation with the SPX. 
 
-Insert picture: SPX 
+![]()
 
 While I’m not sure we can come to any conclusions on how RenTech is able to do what they do, I thought it would be fitting - given my background - to explore the most tech and quant driven of all the quant funds in the world - RenTech. (Of all the Charlie Browns in the world, you are the Charlie-Browniest RenTech.)
