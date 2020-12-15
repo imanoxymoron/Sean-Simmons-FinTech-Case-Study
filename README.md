@@ -10,7 +10,7 @@ Given my life has been mostly dedicated to trading and portfolio management, bot
 “To put this performance in perspective, $1 invested in the Medallion Fund from 1988-2018 would have grown to over $20,000 (net of fees) while $1 invested in the S&P 500 would have only grown to $20 over the same time period.  Even a $1 investment in Warren Buffett’s Berkshire Hathaway would have only grown to $100 during this time. 
 This means that the Medallion Fund outperformed one of the best asset classes of the last few decades by 1,000x and one of the best investors of all time by 200x!”
 
-![](https://github.com/imanoxymoron/Sean-Simmons-FinTech-Case-Study/blob/main/rentech%20pic.png)
+![](https://github.com/imanoxymoron/Sean-Simmons-FinTech-Case-Study/blob/main/medallion%20fund%20performance.PNG)
 
 What might be even more impressive, is that they’ve only lost money one time net of fees in that period, while maintaining a negative correlation with the SPX. 
 
