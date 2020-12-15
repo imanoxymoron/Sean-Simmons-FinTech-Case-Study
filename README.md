@@ -19,7 +19,7 @@ While I’m not sure we can come to any conclusions on how RenTech is able to do
 
 ## Overview and Origin:
 
-###Name of company
+### Name of company
 
 Renaissance Technologies or ‘RenTech’ as it is known on the street 
 https://www.rentec.com/Home.action?index=true 
