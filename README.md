@@ -17,10 +17,6 @@ What might be even more impressive, is that they’ve only lost money one time n
 
 While I’m not sure we can come to any conclusions on how RenTech is able to do what they do, I thought it would be fitting - given my background - to explore the most tech and quant driven of all the quant funds in the world - RenTech. (Of all the Charlie Browns in the world, you are the Charlie-Browniest RenTech.)
 
-1. First item
-2. Second item
-3. Third item
-
 ## Overview and Origin:
 
 ### Name of company
@@ -68,7 +64,7 @@ As previously mentioned, as far as quant trading is concerned, it is people, not
 
 Cornell also notes:
 
-“Returns of the level reported by Medallion could hardly be interpreted as risk premiums. In fact, it is difficult to speak of risk regarding Medallion because the fund never experienced a negative annual return. The fund did have a large standard deviation of returns, 31.7%, but that was around an arithmetic mean of 66.1%, implying a Sharpe ratio of exceeding 2.0. As to systematic risk, a regression of Medallion’s excess returns on the CRSP market index produces a beta of approximately -1.0 so that in addition to its extraordinary performance Medallion also offered a hedge against market risk. A three-factor regression adding the Fama and French (1996) variables SMB and HML reveals that loadings on both factors are also negative, though neither is statistically significant. Whatever the source of Medallion’s returns, it is not a reward for risk bearing.”
+> “Returns of the level reported by Medallion could hardly be interpreted as risk premiums. In fact, it is difficult to speak of risk regarding Medallion because the fund never > experienced a negative annual return. The fund did have a large standard deviation of returns, 31.7%, but that was around an arithmetic mean of 66.1%, implying a Sharpe ratio > of exceeding 2.0. As to systematic risk, a regression of Medallion’s excess returns on the CRSP market index produces a beta of approximately -1.0 so that in addition to its > > extraordinary performance Medallion also offered a hedge against market risk. A three-factor regression adding the Fama and French (1996) variables SMB and HML reveals that > > loadings on both factors are also negative, though neither is statistically significant. Whatever the source of Medallion’s returns, it is not a reward for risk bearing.”
 
 So what is a black-box/quant model anyways?  It is simply a systematic, automated, and data driven methodological approach to investing.  People still select the research process, data, universe of securities.  In the data, humans have to know where to look and what is valuable.  For RenTech, it seems like - from the knowledge we have - that they have algorithms and processes that are better at dealing with data than other black-box/quant shops.
 
