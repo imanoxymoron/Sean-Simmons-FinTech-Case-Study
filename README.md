@@ -118,20 +118,15 @@ It is said that RenTech - via various algorithms - is able to find signals that 
 1.) Eliminate most market/systematic risk
 2.) Eliminate most sector risk
 3.) Eliminate transactions costs through higher speed connections/market making/fill algos
+4.) Use statistical arbitrage on higher volatility- yet factor matched - positions and close those mean reversion gaps on micro scales over and over
 
 As Robert Mercer said - we want to win 50.75% of the time 100% of the time.  That tiny inperceptible signal they found and traded on - say it makes .2% very quickly over the course of the signal.  They are also levered, so that number might annualize out to something absurd.  
 
 The firms algorithms seem to not bother to test hypotheses, the data itself is the signal, and the ability to process massive amounts of data, and tease out signals, is the process itself.  Taking seemingly unconnected and untradable information and making it tradeable is their business. So this is essentially a process of taking data, signal processing, and feature extraction that is fully automated via algorithms that aren’t well understood.
 
-Other potential areas that RenTech may have a competitive advantage/differentiate from other quant shops:
+All in, it is extremely difficult to say with any certainty, how RenTech exactly does what it does, but my sense is they continue to use machine learning/empirical science (data mining) while using proprietary algorithms to maximize the strength and speed of signal processing.  These signals, are scrubbed off terabytes of data on a daily basis, then signals are traded into a portfolio with matched factor loadings at a security and portfolio level, in order to minimize systematic/beta risk.  Then RenTech depends on micro to mini-scale mean reversion in each of these security positions based on the factor loadings.  They then lever these 50.75% wins into hundreds of tiny trades that make casino style edge.  They likely enter and exit these positions through some very smart algorithms to eliminate - or even profit from the trades on a market making basis. Given there is a negative correlation to SPX/other factor beta risks, the above methodology is likely the only way they could do what they do.  
 
-- 
-
-https://www.youtube.com/results?search_query=information+geometry+and+its+applications 
-
-Simons’ background hardly suggested that he would one day lead one of the most successful, if not the most successful, quantitative hedge fund operation in the world.
-Born in 1938 to a Jewish family that operated a small shoe factory, Simons aspired very early to be a mathematician, ultimately receiving a B.S. degree from the Massachusetts Institute of Technology at the age of 20, and a Ph.D. from the University of California, Berkeley at the age of 23. His doctoral thesis presented a new proof of Berger’s classification of the holonomy groups of Riemannian manifolds. Later, in collaboration with Shing-Shen Chern, he discovered and proved what is now known as the Chern-Simons theorem (and associated theory), which deals with 3-dimensional quantum field theory and also has applications in string theory and quantum computing. For this and some related work, in 1976 he received the Oswald Veblen Prize in Geometry.
-
+The question is - are other quant shops just that bad?  Or are these guys just that good? Or is this just the world overcomplicating something that isn't complicated? We may never know the answer.  Is it ultra efficient/smart signal processing using some sort of kernel based machine learning? The secret sauce is clearly the algorithms the people have created.  This should be aspirational and inspirational for all investors.  Assuming this isn't some sort of a fraud, it shows us all that we can be better.  What one man can do, another can too. 
 
 ## Landscape:
 
