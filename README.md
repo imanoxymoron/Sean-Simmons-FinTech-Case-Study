@@ -115,10 +115,10 @@ What RenTech MAY do better than anyone else:
 
 It is said that RenTech - via various algorithms - is able to find signals that are inperceptible to humans without computers - using signal processing algorithms/machhine learning. Howver, it seems like the algorithms (potentially some application of the Baum-Welch algorithm) are used much more efficiently in RenTech than elsewhere. It appears that RenTech finds patterns - thousands of them - in very basic data - and finds signals that work 50.75% of the time and are magnified at each trade via leverage with long short positions.  So take something like two very similar companies.  The machines would be scrubbing data and trades on a micro level basis, looking for signals that humans can't see.  If that signal is replicated several times - it may be SLIGHTLY more likely to be replicated again.  So if Exxon Mobil is trading like garbage relative to XOM on upticks, and all else equal, the pattern recognition might grab that CVX stock and sell XOM in a short term levered way.  Keeping balanced, on a sector and company basis, the firm would truly be 'hedged' against everything but a company specific smash-up. However, it is **LIKLELY** (read: certain) that computers immediately would unwind XOM on negative read headlines/signals.  In this, if they capture these micro signals OVER AND OVER again, they could reliably:
 
-1.) Eliminate most market/systematic risk
-2.) Eliminate most sector risk
-3.) Eliminate transactions costs through higher speed connections/market making/fill algos
-4.) Use statistical arbitrage on higher volatility- yet factor matched - positions and close those mean reversion gaps on micro scales over and over
+1. Eliminate most market/systematic risk
+2. Eliminate most sector risk
+3. Eliminate transactions costs through higher speed connections/market making/fill algos
+4. Use statistical arbitrage on higher volatility- yet factor matched - positions and close those mean reversion gaps on micro scales over and over
 
 As Robert Mercer said - we want to win 50.75% of the time 100% of the time.  That tiny inperceptible signal they found and traded on - say it makes .2% very quickly over the course of the signal.  They are also levered, so that number might annualize out to something absurd.  
 
